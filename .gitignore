@@ -17,3 +17,5 @@ copilot-instructions.md
 
 # Claude settings
 .claude/
+
+composer.lock
